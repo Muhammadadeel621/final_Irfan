@@ -1,0 +1,103 @@
+body{
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    box-shadow: 10px;
+    background-size: cover;
+    background-attachment: fixed;
+    background-image: url(abc.jpg);
+} 
+#ill{
+    color:rgb(248,0,0);
+    font-size: 40px;
+}
+#h1{
+    color: red;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+}
+table{
+    display: inline;
+}
+
+h3{
+    color: red;
+    font-size: 24px;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    font-variant: normal;
+}
+.one{
+    font-size: 22px;
+    color: yellow;
+    font-family: 'Times New Roman', Times, serif;
+}
+span{
+    font-size: 16px;
+    float: right;
+}
+.two{
+    color: lawngreen;
+}
+.two{
+    color: lime;
+    font-weight: bold;
+}
+.five{
+    color: lime;
+}
+.three{
+    color: yellow;
+    float: right;
+    font-size: 20px;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    font-variant: normal;
+}
+
+#A , #B , #C , #D , #E ,#F , #G , #H , #I{
+    float: left;
+    border: 1px solid darkgray;
+    border-spacing: 2px;
+    padding: 22px;
+} 
+
+#H{
+	margin-left: -30px;
+}
+#F{
+	margin-left: -10px;
+}
+#items{
+    color: yellow;
+    font-size:34px;
+    padding-left: 30px;
+}
+#button{
+    background-color:green;
+    color: yellow;
+    font-size: 25px;
+    padding: 14px;
+    border: 2px solid rgb(231, 57, 57);
+    margin-top: 40px;
+}
+#btn1{
+    background-color:green;
+    border: 2px solid rgb(231, 57, 57);
+    padding: 10px;
+    margin-top: 5px;
+    text-decoration: none;
+    color: yellow;
+    font-size: 15px;
+}
+
+#bill{
+    margin-top: 50px;
+     border: 2px solid gray;
+    height: 150px;
+    width: 400px;
+   }
+#total{
+    color: rgb(231, 57, 57);
+    font-size: 28px;
+}
